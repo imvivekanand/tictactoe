@@ -4,7 +4,7 @@ import React from "react";
 //   console.log(props);
 //   return <button type="button">{props.value}</button>;
 // };
-const Square = ({value}) => {
+const Square = ({ value }) => {
   return <button type="button">{value}</button>;
 };
 
