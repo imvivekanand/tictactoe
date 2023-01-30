@@ -4,7 +4,7 @@ import Board from "./components/Board";
 const App = () => {
   return (
     <div>
-      <h1>Tic Tac Toe!</h1>
+      <h1>TIC TAC TOE</h1>
       <Board/>
     </div>
   );
